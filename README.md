@@ -5,3 +5,7 @@
 - FAÇA UM COMMIT LOCAL
 - REALIZE UM PUSH
 - CONVIDE UM COLABORADOR
+
+"teste de alteração"
+
+
